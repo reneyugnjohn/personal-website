@@ -1,2 +1,2 @@
-# portfolio
+# personal website
 created in html/css
